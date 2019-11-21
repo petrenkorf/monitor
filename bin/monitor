@@ -1,0 +1,1 @@
+/usr/bin/gulp monitor --gulpfile /usr/lib/node_modules/test-monitor/gulpfile.js --cwd .
